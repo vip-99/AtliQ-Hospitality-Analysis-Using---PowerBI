@@ -87,9 +87,9 @@ Revenue & RevPAR: High revenue ($553.93M) and strong RevPAR ($7,304) indicate a 
 ADR & Occupancy: High ADR ($2,528) and 70.1% occupancy suggest premium pricing with good room utilization.
 Improvement Needed: A 48% realization rate suggests lost revenue potential.
 
-**Recommendations** :
-Enhance realization rate through promotions and better booking conversions.
+**Recommendations** : Enhance realization rate through promotions and better booking conversions.
 Optimize revenue across different categories by analyzing high and low-performing segments.
+
 
 
 
@@ -99,10 +99,9 @@ Optimize revenue across different categories by analyzing high and low-performin
 Low Ratings: An average rating of 3.6 (out of 5) signals customer dissatisfaction.
 Booking Trends: Fluctuations suggest the need for better demand forecasting.
 
-**Recommendations** :
-
-Investigate low ratings through customer feedback and improve service quality.
+**Recommendations** : Investigate low ratings through customer feedback and improve service quality.
 Address booking fluctuations with optimized pricing, promotions, and staffing adjustments.
+
 
 
 
@@ -112,10 +111,9 @@ Address booking fluctuations with optimized pricing, promotions, and staffing ad
 Diversification Needed: 5.02% revenue from "Other Sources" suggests potential for additional revenue streams.
 Week-on-Week Trends: Fluctuations in bookings highlight opportunities for better pricing and marketing strategies.
 
-**Recommendations** :
-
-Expand ancillary services (spa, dining, events) to increase non-room revenue.
+**Recommendations** : Expand ancillary services (spa, dining, events) to increase non-room revenue.
 Implement dynamic pricing and targeted promotions to optimize booking rates.
+
 
 
 
@@ -126,9 +124,7 @@ Low Occupancy Properties: Some properties, like Atliq City Mumbai (48.77% occupa
 Low ADR Impact: Atliq Bay Hyderabad ($9,563 ADR) has room for price optimization.
 City-Wise Variation: Some cities perform better than others, requiring tailored strategies.
 
-**Recommendations**:
-
-Investigate reasons for low occupancy (pricing, marketing, competition, customer experience).
+**Recommendations**: Investigate reasons for low occupancy (pricing, marketing, competition, customer experience).
 Adjust pricing strategies based on market positioning and demand trends.
 Develop city-specific strategies based on performance trends.
 
