@@ -86,6 +86,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 Revenue & RevPAR: High revenue ($553.93M) and strong RevPAR ($7,304) indicate a well-performing business.
 ADR & Occupancy: High ADR ($2,528) and 70.1% occupancy suggest premium pricing with good room utilization.
 Improvement Needed: A 48% realization rate suggests lost revenue potential.
+
 **Recommendations** :
 Enhance realization rate through promotions and better booking conversions.
 Optimize revenue across different categories by analyzing high and low-performing segments.
