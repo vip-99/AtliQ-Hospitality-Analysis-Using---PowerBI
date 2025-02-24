@@ -38,3 +38,5 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ## Data Model
 
 https://github.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/blob/main/Screenshot%20(154).png
+
+https://raw.githubusercontent.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/refs/heads/main/Screenshot%20(154).png
