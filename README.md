@@ -39,8 +39,28 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Data Model
 
-https://github.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/blob/main/Screenshot%20(154).png
 ![AtliQ Hospitality Analysis](https://raw.githubusercontent.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/main/Screenshot%20(154).png)
 
 
+
+
+
+
+## How to Use
+- Open the Power BI dashboard.
+- Use slicers to filter data by Fat Content, Outlet Type, Establishment Year.
+- Interact with charts to view specific insights.
+
+
+
+
+
+
+
+## Mock-up Dashboard
+
+![AtliQ Hospitality Analysis](https://raw.githubusercontent.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/main/Screenshot%20(155).png)
+
+
+![AtliQ Hospitality Analysis](https://raw.githubusercontent.com/vip-99/AtliQ-Hospitality-Analysis-Using---PowerBI/main/Screenshot%20(156).png)
 
